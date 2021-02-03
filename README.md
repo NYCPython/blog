@@ -4,7 +4,7 @@ Welcome to the [NYC Python Meetup Blog](https://nycpython.github.io/blog/)!
 
 ## Installation
 
-1. Install hugo-extended on your platform by [following instructions here](https://gohugo.io/getting-started/installing/).
+1. Install `hugo-extended` on your platform by [following instructions here](https://gohugo.io/getting-started/installing/).
 2. Run hugo:
 
 ```bash
