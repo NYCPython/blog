@@ -1,0 +1,57 @@
+baseurl: "https://nycpython.github.io/blog"
+title: NYC Python Meetup
+theme: ghostwriter
+languageCode: en-us
+copyright: MIT
+pygmentsUseClasses: true
+pygmentsCodefences: true
+
+markup:
+  highlight:
+    codeFences: true
+    guessSyntax: false
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    tabWidth: 2
+
+author:
+  name: ""
+  profile: ""
+
+taxonomies:
+  tag: tags
+
+params:
+  mainSections:
+    - post
+  intro: true
+  headline: NYC Python Meetup
+  # description: This is NYC Python Meetup's Blog
+  github: "https://github.com/NYCPython"
+  linkedin: "https://www.linkedin.com/company/nyc-python/about/"
+  twitter: "https://twitter.com/nycpython"
+  # email: XXX@example.com
+  meetup: "https://www.meetup.com/nycpython/"
+  opengraph: true
+  shareTwitter: true
+  rss: true
+  shareFacebook: true
+  shareLinkedIn: true
+  dateFormat: "Mon, Jan 2, 2006"
+  readingTime: true
+  readingTimeText: "Estimated reading time:"
+
+permalinks:
+  post: "/:year/:month/:day/:filename/"
+
+menu:
+  main:
+    - name: Blog
+      url: /
+      weight: 1
+    - name: About
+      url: /page/about/
+      weight: 2
