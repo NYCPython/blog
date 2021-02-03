@@ -1,6 +1,6 @@
 # NYC Python Meetup Blog
 
-Welcome to the NYC Python Meetup Blog!
+Welcome to the [NYC Python Meetup Blog](https://nycpython.github.io/blog/)!
 
 ## Installation
 
