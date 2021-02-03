@@ -38,7 +38,7 @@ tags = []
 ![NYC Python Logo](/blog/images/nyc_python_meetup_logo.png)
 ```
 
-4. You can find an example of a [markdown file here](content/post/first-post.md), which is rendered at [nycpython.github.io/blog/2021/02/03/first-post/](nycpython.github.io/blog/2021/02/03/markdown-syntax-guide/).
+4. You can find an example of a [markdown file here](content/post/markdown-syntax-guide), which is rendered at [here](https://nycpython.github.io/blog/2021/02/03/markdown-syntax-guide/).
 
 ## License
 
